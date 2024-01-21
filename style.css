@@ -23,3 +23,7 @@ body{
     left: 20%;
     transform: translate(-50%, -50%);
 }
+
+.white{
+    color:white;
+}
